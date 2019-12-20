@@ -1,0 +1,24 @@
+body{
+    background-color: #0BB3B5;
+}
+h1{
+    font-size : 18px;
+}
+.card{
+    height : 100vh;
+}
+
+caption{
+    background-color : #343A40;
+    color : white;
+    font-size : 16px;
+    font-weight : bold;
+    text-align:  center;
+    border-top-left-radius : 35px 35px;
+    border-top-right-radius : 35px 35px;
+    
+}
+.lineday{
+    background-color : rgba(11, 179, 181, 0.8);
+    color : white;
+}
